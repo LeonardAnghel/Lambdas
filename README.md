@@ -1,0 +1,2 @@
+# Lambdas
+Recipes about lambdas
